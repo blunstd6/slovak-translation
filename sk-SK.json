@@ -2,7 +2,7 @@
     "display_name_english": "Slovak",
     "display_name_native": "Slovenčina",
     "fallback-lang": "",
-    "font": "chatFont.fnt",
+    "font": "lexend.fnt",
     "strings": {
         "categories": {
             "level": "Level",
